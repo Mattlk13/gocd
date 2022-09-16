@@ -22,7 +22,7 @@
     "bourbon": "^7.0.0",
     "chart.js": "^3.5.1",
     "chartjs-plugin-zoom": "^1.1.1",
-    "classnames": "^2.3.1",
+    "classnames": "^2.3.2",
     "clipboard-polyfill": "^3.0.3",
     "core-js": "^3.18.3",
     "filesize": "^8.0.3",
