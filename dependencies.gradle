@@ -84,7 +84,7 @@ final Map<String, String> libraries = [
   mybatisSpring       : 'org.mybatis:mybatis-spring:2.1.1',
   mysql               : 'com.mysql:mysql-connector-j:8.1.0',
   nanohttpd           : 'org.nanohttpd:nanohttpd:2.3.1',
-  objenesis           : 'org.objenesis:objenesis:3.3',
+  objenesis           : 'org.objenesis:objenesis:3.4',
   oscache             : 'opensymphony:oscache:2.4.1',
   oshi                : 'com.github.oshi:oshi-core-java11:6.4.4',
   postgresql          : 'org.postgresql:postgresql:42.6.0',
