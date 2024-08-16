@@ -6045,7 +6045,7 @@ __metadata:
     mockdate: ^3.0.5
     moment: ^2.29.4
     moment-duration-format: ^2.3.2
-    normalize-scss: ^7.0.1
+    normalize-scss: ^8.0.0
     opensans: "file:vendor/assets/fonts/opensans"
     optimize-css-assets-webpack-plugin: ^6.0.1
     patch-package: ^8.0.0
@@ -8479,10 +8479,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"normalize-scss@npm:^7.0.1":
-  version: 7.0.1
-  resolution: "normalize-scss@npm:7.0.1"
-  checksum: 7bec22bbb38260916a732ff85aa476e759faf703b5b42fe155be82c5d7aec3ca3807ea0c0265bafd3f7ec5ec601d840edbf486780b969dbbf5581d7482eb2a60
+"normalize-scss@npm:^8.0.0":
+  version: 8.0.0
+  resolution: "normalize-scss@npm:8.0.0"
+  checksum: 412ce322895f3ec8ba507d75eda72fe2984528cc0c311f1cc57da8659e53d1c1ad0fa40940a0706ed729e60686cd2f1f66b6b8661b5dd9c1cbe6dd2b81fc9a70
   languageName: node
   linkType: hard
 
