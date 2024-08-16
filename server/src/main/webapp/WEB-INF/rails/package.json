@@ -116,7 +116,7 @@
     "style-loader": "^2.0.0",
     "stylelint": "^15.10.2",
     "stylelint-config-standard-scss": "^10.0.0",
-    "stylelint-webpack-plugin": "^2.5.0",
+    "stylelint-webpack-plugin": "^5.0.1",
     "thread-loader": "^3.0.4",
     "ts-loader": "^8.4.0",
     "ts-node": "^10.9.1",
