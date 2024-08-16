@@ -67,7 +67,7 @@
     "@types/mithril": "2.0.13",
     "@types/node": "^18.17.4",
     "@types/optimize-css-assets-webpack-plugin": "^5.0.5",
-    "@types/prismjs": "^1.26.0",
+    "@types/prismjs": "^1.26.4",
     "@types/shell-quote": "^1.7.1",
     "@types/underscore.string": "^0.0.38",
     "@types/url-parse": "^1.4.8",
