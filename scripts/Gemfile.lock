@@ -1,11 +1,15 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    faraday (2.7.10)
-      faraday-net_http (>= 2.0, < 3.1)
-      ruby2_keywords (>= 0.0.4)
-    faraday-net_http (3.0.2)
-    ruby2_keywords (0.0.5)
+    faraday (2.11.0)
+      faraday-net_http (>= 2.0, < 3.4)
+      logger
+    faraday-net_http (3.3.0)
+      net-http
+    logger (1.6.0)
+    net-http (0.4.1)
+      uri
+    uri (0.13.1)
 
 PLATFORMS
   arm64-darwin-22
